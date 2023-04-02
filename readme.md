@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alfred Morgan</h1>
-<h3 align="center">I love creating new Web Applications. I work primarily in C# living in the .NET world.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amorganskate" alt="amorganskate" /></a> </p>
 
